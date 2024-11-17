@@ -1,0 +1,26 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #57768b;
+    height: 100vh;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #7cc3f3; 
+    color: white;
+    border-radius: 0px;
+}
+
+.info{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #57768b;
+    color: rgb(255, 255, 255);
+    border-radius: 0px;
+}
